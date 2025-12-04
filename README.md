@@ -1,4 +1,4 @@
-Зпазок 1
+Зразок 1
 
 [ttsmaker-file-2025-12-3-18-22-0.mp3](https://github.com/user-attachments/files/23927494/ttsmaker-file-2025-12-3-18-22-0.mp3) 
 
